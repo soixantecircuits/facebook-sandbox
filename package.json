@@ -10,6 +10,7 @@
     "min_width": 650,
     "min_height": 650
   },
+
   "chromium-args": "--child-clean-exit",
   "dependencies": {
       "fb":"~0.7.*"

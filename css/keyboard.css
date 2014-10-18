@@ -1,0 +1,11 @@
+body{
+  background: transparent;
+}
+
+.keyboard{
+  width:100%;
+  height: 200px;
+  position: absolute;
+  bottom:0px;
+  left:0px;
+}
